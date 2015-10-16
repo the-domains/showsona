@@ -1,4 +1,4 @@
-name: showsona
+name: null
 favicon: null
 layout_spectrum: 0.8
 cta:
@@ -19,7 +19,4 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: follow
-    item: 4f118a18-e461-44f7-8c1a-90696853ca73
-    url: null
+purpose: []
