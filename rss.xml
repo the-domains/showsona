@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[showsona]]></title>
+        <description><![CDATA[showsona]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 15 Oct 2015 22:28:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Xander is a Booger]]></title>
+            <description><![CDATA[<article><h1>Xander is a Booger</h1><p>He really is a booger</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4701cde6-e131-4e30-b356-768ea4c638df.jpg"></article>]]></description>
+            <link>undefinedxander-is-a-booger/index.html</link>
+            <guid isPermaLink="false">4f118a18-e461-44f7-8c1a-90696853ca73</guid>
+            <pubDate>Thu, 15 Oct 2015 22:28:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
